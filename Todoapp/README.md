@@ -1,13 +1,33 @@
-# React-Todo-App
-Todo list app project using react hooks
-Here is the screenshot of the project.
+# React Todo App
 
-<img width="457" alt="image" src="https://user-images.githubusercontent.com/36126362/213862825-c5c342c6-6ba1-421a-9784-2848368feea4.png">
+A simple and responsive Todo List application built using React Hooks.
 
-<h3>Functionalities:</h3>
-<ol>
-  <li> Add Todo by clicking add button</li>
-  <li> Add Todo by pressing Enter key</li>
-  <li> Delete Todo</li>
- </ol>
- 
+## Features
+
+- Add Todo using button
+- Add Todo using Enter key
+- Delete Todo
+- Clean and responsive UI
+
+## Technologies Used
+
+- React JS
+- JavaScript
+- HTML
+- CSS
+
+## Screenshot
+
+![Todo App Screenshot]<img width="457" alt="image" src="https://user-images.githubusercontent.com/36126362/213862825-c5c342c6-6ba1-421a-9784-2848368feea4.png">
+
+
+## Run Locally
+
+```bash
+npm install
+npm start
+```
+
+## Author
+
+Pooja Bhakuni
